@@ -1,4 +1,4 @@
-1.// Problem name: (A) Summation.
+1.// Problem name: (B) Searching.
 2.// Course title: Competitive Programming Sessional
 3.// Course code: CCE-2310
 4.// Course teacher name: Mirza Raquib
