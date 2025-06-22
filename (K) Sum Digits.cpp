@@ -4,7 +4,7 @@
 4.// Course teacher name: Mirza Raquib
 5.// Date: 16/6/25
 
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
